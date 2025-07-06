@@ -1,0 +1,4 @@
+outputs:
+  section:
+    - html
+    - json
